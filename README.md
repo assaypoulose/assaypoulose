@@ -1,8 +1,3 @@
-### Hi there 👋
-
-![github-header-image (1)](https://github.com/user-attachments/assets/9f22d25d-562c-46ab-9cbc-f5850a084d2a)
-
-
 ### Hi there 👋, It's me Assay Poulose
 #### Full Stack Developer / Web Developer
 ![Full Stack Developer / Web Developer](https://img.freepik.com/premium-photo/banner-young-girl-using-laptop-coding-progr-digital-native-gen-alpha-design_655090-558253.jpg)
