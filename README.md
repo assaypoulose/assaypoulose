@@ -1,10 +1,9 @@
 ### Hi there 👋, It's me Assay Poulose
 #### Full Stack Developer / Web Developer    
 <div>
-  <a href="https://www.instagram.com/coding_girl_93/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="filter: invert(1);">
-  </a>
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);'>](https://www.instagram.com/https://www.instagram.com/coding_girl_93//) 
 </div>
+
 
 ![Full Stack Developer / Web Developer](https://img.freepik.com/premium-photo/banner-young-girl-using-laptop-coding-progr-digital-native-gen-alpha-design_655090-558253.jpg)
 
