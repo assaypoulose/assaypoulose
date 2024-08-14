@@ -1,7 +1,7 @@
 ### Hi there 👋, It's me Assay Poulose
 #### Full Stack Developer / Web Developer    
 <div>
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);'>](https://www.instagram.com/https://www.instagram.com/coding_girl_93//) 
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' fill='white'>](https://www.instagram.com/https://www.instagram.com/coding_girl_93//)  
 </div>
 
 
