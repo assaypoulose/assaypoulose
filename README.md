@@ -9,6 +9,14 @@ Welcome to my GitHub playground! I'm a Full Stack Web Developer
 - Oracle certified Java Foundations Associate
 
 Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / MySQL / FireBase / JAVA / AWS 
+<p align="center">
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
 
 - 🔭 I’m currently working on Freelance Full Stack projects 
 - 🌱 I’m currently learning AWS Solutions Architect
@@ -22,22 +30,8 @@ Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assaypoulose)](https://github.com/anuraghazra/github-readme-stats) 
 
 <div align="center">
-   <img width="450" height="500" src="https://github-readme-stats.vercel.app/api?username=assaypoulose&show_icons=true" />
-   <img width="450" height="500" src="https://streak-stats.demolab.com/?user=assaypoulose" />
+   <img width="450" src="https://github-readme-stats.vercel.app/api?username=assaypoulose&show_icons=true" />
+   <img width="450" src="https://streak-stats.demolab.com/?user=assaypoulose" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=assaypoulose)](https://github.com/ryo-ma/github-profile-trophy) 
-
-
-<p align="center">
-   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/spidertocat.png' width='300"'><br>
-   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-<br>
-
-
-
