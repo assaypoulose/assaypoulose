@@ -10,7 +10,7 @@ Welcome to my GitHub playground! I'm a Full Stack Web Developer
 
 Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / MySQL / FireBase / JAVA / AWS 
 <p align="center">
-   <img src="[https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp](https://media.lordicon.com/icons/wired/flat/1321-html-5-code-language.gif)" width="100">
+   <img src="https://media.lordicon.com/icons/wired/flat/1321-html-5-code-language.gif" width="100">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
