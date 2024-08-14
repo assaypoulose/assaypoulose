@@ -23,7 +23,6 @@ Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / 
 - 🤔 I’m looking for help with CI/CD process 
 - 💬 Ask me about Full-Stack Project Ideas 
 - 📫 How to reach me: assaypoulose16@gmail.com 
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I might not say much, but my code speaks volumes! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assaypoulose)](https://github.com/anuraghazra/github-readme-stats) 
