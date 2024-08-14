@@ -20,6 +20,24 @@ Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / 
 - ⚡ Fun fact: I might not say much, but my code speaks volumes! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assaypoulose)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=assaypoulose&show_icons=true) 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=assaypoulose)  
+
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=assaypoulose&show_icons=true" />
+   <img width="425" src="https://streak-stats.demolab.com/?user=assaypoulose" />
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=assaypoulose)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
+<p align="center">
+   <img align='center' src='https://github.com/benduBytes/benduBytes/blob/main/gif/spidertocat.png' width='300"'><br>
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+
+
+
