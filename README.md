@@ -1,5 +1,5 @@
 ### Hi there 👋, It's me Assay Poulose
-#### Full Stack Developer / Web Developer
+#### Full Stack Developer / Web Developer [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/coding_girl_93//)  
 ![Full Stack Developer / Web Developer](https://img.freepik.com/premium-photo/banner-young-girl-using-laptop-coding-progr-digital-native-gen-alpha-design_655090-558253.jpg)
 
 Welcome to my GitHub playground! I'm a Full Stack Web Developer
