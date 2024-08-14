@@ -19,14 +19,6 @@ Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I might not say much, but my code speaks volumes! 
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/assaypoulose)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=assaypoulose)](https://github.com/ryo-ma/github-profile-trophy) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assaypoulose)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=assaypoulose&show_icons=true)  
-
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=assaypoulose)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=assaypoulose)](https://github.com/ryo-ma/github-profile-trophy) 
