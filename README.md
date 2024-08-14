@@ -8,10 +8,16 @@ Welcome to my GitHub playground! I'm a Full Stack Web Developer
 - I'm also interested in exploring AWS Cloud technologies and Salesforce Development.
 - Oracle certified Java Foundations Associate
 
-Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / MySQL / JAVA / AWS 
+Skills: REACT / JS / HTML / CSS / ExpressJS / NodeJS / RESTful APIs / MongoDB / MySQL / FireBase / JAVA / AWS 
 
 - 🔭 I’m currently working on Freelance Full Stack projects 
-- 🌱 I’m currently learning AWS Solutions Architect 
+- 🌱 I’m currently learning AWS Solutions Architect
+- 👯 I’m looking to collaborate on Full-Stack Web Development 
+- 🤔 I’m looking for help with CI/CD process 
+- 💬 Ask me about Full-Stack Project Ideas 
+- 📫 How to reach me: assaypoulose16@gmail.com 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I might not say much, but my code speaks volumes! 
 
 
 
